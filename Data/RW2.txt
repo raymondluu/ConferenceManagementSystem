@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<review>
+    <userid>U3</userid>
+    <commentstospc>Meh!!</commentstospc>
+    <commentstoauthor>WHY?!</commentstoauthor>
+    <rating>1</rating>    
+</review>

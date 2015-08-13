@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<review>
+    <userid>U4</userid>
+    <commentstospc>I loved it!</commentstospc>
+    <commentstoauthor>Work harder!</commentstoauthor>
+    <rating>5</rating>    
+</review>

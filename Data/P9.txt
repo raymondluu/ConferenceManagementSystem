@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<paper>
+	<author>U5</author>
+    <title>Dijkstra's first paper</title>
+    <keyword>engineering</keyword>
+    <keyword>science</keyword>
+    <abstract>Abstract</abstract>
+    <category>conference</category>
+    <category>science</category>
+    <text>I'm smart</text>
+</paper>

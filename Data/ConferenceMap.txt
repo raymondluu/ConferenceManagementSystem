@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<conferencemap>
+	<conference>
+		<name>2013 4th IEEE International Conference on Software Engineering and Service Science</name>    
+    	<id>C1</id>
+    </conference>
+    <conference>
+    	<name>Numerical Computations: Theory and Algorithms</name>
+    	<id>C2</id>
+	</conference>    
+</conferencemap>
+   

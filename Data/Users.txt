@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+	<user id="U1">
+		<name>Albert Einstein</name>
+		<password>e=mc2</password>
+		<email>albert@relativity.com</email>
+		<paper>P1</paper>
+		<paper>P2</paper>
+	<paper>P10</paper><paper>P11</paper><paper>P12</paper></user>
+	<user id="U2">
+		<name>Jeffrey Weiss</name>
+		<password>scramking</password>
+		<email>jawit@uw.edu</email>
+		<paper>P4</paper>
+		<paper>P5</paper>
+	</user>
+	<user id="U3">
+		<name>Nikola Tesla</name>
+		<password>teslacoils</password>
+		<email>tesla@electricity.com</email>
+		<paper>P6</paper>
+		<paper>P7</paper>
+	</user>
+	<user id="U4">
+		<name>Madonna</name>
+		<password>star</password>
+		<email>madonna@vatican.com</email>		
+	</user>
+	<user id="U5">
+		<name>Charles Babbage</name>
+		<password>babbage</password>
+		<email>babbage@computer.com</email>	
+		<paper>P3</paper>	
+	</user>
+	<user id="U6">
+		<name>Manuel Blum</name>
+		<password>blum</password>
+		<email>blum@crtptography.com</email>	
+		<paper>P8</paper>	
+	</user>
+	<user id="U7">
+		<name>Edsger Dijkstra</name>
+		<password>graph</password>
+		<email>dijkstra@semaphore.com</email>	
+		<paper>P9</paper>	
+	</user>
+<user id="U8"><name>Testy McTesterson</name><password>password</password><email/></user><user id="U9"><name>Alex Yuly</name><password>password</password><email>alexyuly@uw.edu</email></user></users>

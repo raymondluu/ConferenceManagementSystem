@@ -1,0 +1,5 @@
+//User Actions
+U:login,createConference
+PC:submitPaper,designateRole,viewSubmissions,viewReviews,submitDecision,viewSubprogramChairs
+SPC:designateReviewer,assignPaperToReviewer,submitRecommendation
+A:obtainReviews,editSubmission,unsubmitSubmission

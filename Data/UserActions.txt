@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<actions>
+	<user type = "headoffice">
+		<action>createConference</action>
+		<action>exit</action>
+	</user>
+	<user type = "programchair">
+		<action>submitPaper</action>
+		<action>designateRole</action>
+		<action>viewSubmissions</action>
+		<action>viewReviews</action>
+		<action>submitDecision</action>
+		<action>viewProgramChairs</action>
+		<action>exit</action>
+	</user>
+	<user type = "subprogramchair">
+		<action>designateReviewer</action>
+		<action>assignPaperToReviewer</action>
+		<action>submitRecommendation</action>
+		<action>exit</action>
+	</user>
+	<user type="author">
+		<action>obtainReviews</action>
+		<action>editSubmission</action>
+		<action>unsubmitSubmission</action>
+		<action>exit</action>
+	</user>
+	<user type = "reviewer">
+		<action>submitReview</action>
+		<action>exit</action>
+	</user>
+</actions>

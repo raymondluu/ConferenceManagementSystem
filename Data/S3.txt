@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<submission>
+	<author>U6</author>
+    <paper>P8</paper>
+    <status>undecided</status>
+    <recommendation>R1</recommendation>
+    <review>RW2</review>
+    <review>RW1</review>    
+</submission>

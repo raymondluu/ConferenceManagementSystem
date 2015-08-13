@@ -1,0 +1,63 @@
+TCSS360
+Deliverable 3
+Project State
+
+~Group CRAM360~
+Alexander Yuly
+Raymond Luu
+Mars Gokturk
+Caleb Delvillar-Fox
+
+-----
+View the Users.txt file for a list of users, with username/password (login) info. You can also register a new user. One user is Albert Einstein with password e=mc2. He is a program chair.
+Note: Jar file isn't working properly in terms of login user or registering but compiling and running program in eclipse seems to work fine.
+-----
+User Stories
+
+US01 - Yes.
+US02 - Yes.
+US03 - Yes, but the user's role does not get set to author.
+US04 - No, but there is a button for it.
+US05 - No.
+US06 - No.
+US07 - No.
+US08 - No, but there is a button for it.
+US09 - No.
+US10 - No.
+US11 - Yes.
+US12 - No.
+
+-----
+Business Rules
+
+BR01 - Yes.
+BR02 - Yes.
+BR03 - Yes, although this cannot be designated from within the app.
+BR04 - Not implemented.
+BR05 - No.
+BR06 - Yes, but this cannot be set from within the app.
+BR07 - No.
+BR08 - Yes.
+BR09 - Yes, although this can't be set from with the app.
+BR10 - Yes.
+BR11 - Not implemented.
+BR12 - No.
+BR13 - Not implemented.
+BR14 - Yes for viewing submissions, but viewing reviews is not implemented.
+BR15 - Not implemented.
+BR16 - No.
+BR17 - No.
+BR18 - No.
+BR19 - No.
+BR20 - No.
+BR21 - No.
+BR22 - No.
+
+-----
+Authors of each class are denoted within its JavaDocs. The first person listed authored the bulk of the class. The others authored part and/or edited it.
+
+-----
+Emergency contacts:
+Alex Yuly - 206-437-5602
+Ray Luu - 360-561-3238
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<conference>
+	<role type = "programchair">
+		<id>U1</id>
+	</role>
+	<role type ="subprogramchair">
+		<id>U2</id>
+		<id>U3</id>
+		<id>U4</id>
+	</role>
+	<role type = "reviewer">
+		<id>U1</id>
+		<id>U2</id>
+		<id>U3</id>
+	</role>
+	<role type = "author">
+		<id>U3</id>
+		<id>U5</id>
+		<id>U6</id>
+		<id>U7</id>
+	</role>
+	<submissions>
+		<id>S1</id>
+		<id>S2</id>
+		<id>S3</id>
+		<id>S4</id>
+	</submissions>
+	<date>
+		<submissiondeadline></submissiondeadline>
+		<reviewdeadline></reviewdeadline>
+		<decisiondeadline></decisiondeadline>
+		</date>
+</conference>
